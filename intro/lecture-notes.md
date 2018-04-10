@@ -2,10 +2,10 @@
 
 # Hello World!
 
-The goal of this lecture is to give you a roadmap for the course, teach you HTML, introduce you to CSS and to basic concepts of coding such as Graphical User Interface, Integrated Development Environment and Command Line Interface.
+The goal of this lecture is to give you a roadmap for the course, teach you HTML, introduce you to CSS and to basic coding concepts like Graphical User Interface, Integrated Development Environment, and Command Line Interface.
 
 ## What you will learn in this course
-* What is a Graphical User Interface (GUI)
+* What a Graphical User Interface (GUI) is
 * Use an IDE such as Cloud 9
 * Use basic commands of the Terminal
 * Use Development tool
